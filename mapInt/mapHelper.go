@@ -1,4 +1,4 @@
-package golangHelper
+package mapInt
 
 // checkKeyExist 检查key是否存在
 func checkKeyExist(targetMap map[int]string, targetKey int) bool {
